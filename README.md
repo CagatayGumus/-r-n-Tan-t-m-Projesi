@@ -15,12 +15,27 @@ In this project the goal is to create a desktop application which fulfil the nee
 ## Application Images
 
 <p>
-<a href="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/01.png" target="_blank">
-<img src="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/01.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/e-shop%20menu.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/e-shop%20menu.png" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/02.png" target="_blank">
-<img src="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/02.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/e-shop%20sepet.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/e-shop%20sepet.png" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/03.png" target="_blank">
-<img src="https://github.com/hakanozer/React-Youtube-Project/blob/main/images/03.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/iletisim.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/iletisim.png" width="200" style="max-width:100%;"></a>
+    
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/indirim.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/indirim.png" width="200" style="max-width:100%;"></a>
+    
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/login.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/login.png" width="200" style="max-width:100%;"></a>
+    
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/profilguncelleme.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/profilguncelleme.png" width="200" style="max-width:100%;"></a>
+    
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/register.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/register.png" width="200" style="max-width:100%;"></a>
+    
+<a href="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/urunler.png" target="_blank">
+<img src="https://github.com/CagatayGumus/Urun-Tanitim-Projesi/blob/main/images/urunler.png" width="200" style="max-width:100%;"></a>
 </p>
