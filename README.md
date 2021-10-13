@@ -1,7 +1,6 @@
 # Urun Tanıtım Projesi
+It is an e-commerce site where users can become members, log in, view the products, add them to the basket and update their profile information. Dynamically created with API services.
 
-
-In this project the goal is to create a desktop application which fulfil the needs of a "Water Sale" program by using Java, SQLite and JFrame. Project aims to establish the communication between the Customer and the Seller.
 
 ## Languages and Technologies Used in this Project
 
