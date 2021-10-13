@@ -1,2 +1,1 @@
-# -r-n-Tan-t-m-Projesi
-Ürün Tanıtım Projesi
+# Urun Tanıtım Projesi
