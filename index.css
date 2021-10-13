@@ -1,0 +1,271 @@
+.container {}
+
+.nav-link {
+    margin-left: 1rem;
+}
+
+.nav-link:hover {
+    color: rgb(139, 139, 139) !important;
+}
+
+.navbar-brand>.fas:hover {
+    color: white !important;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+
+.dropdown-item:hover {
+    background-color: white;
+    color: black !important;
+}
+
+.dropdown-item-lastchild:hover {
+    background-color: rgb(245, 235, 237) !important;
+    color: black !important;
+}
+
+.side-navbar {
+    width: 11.8rem;
+    height: 83%;   
+    margin-left: -180px;
+    background-color: lightcoral !important;
+    transition: 0.5s;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover {
+    background-color: #ffffff26;
+}
+
+.my-container {
+    transition: 0.4s;
+}
+
+.active-nav {
+    margin-left: 0;
+}
+
+
+/* for main section */
+
+.active-cont {
+    margin-left: 180px;
+}
+
+#menu-btn {
+    background-color: #100901;
+    color: #fff;
+}
+
+.header {
+    width: 100%;
+    box-sizing: content-box;
+    background-color: lightcoral !important;
+}
+
+.header>p {}
+
+.navbar-bottom {
+    margin-top: -3.5px;
+    width: 100%;
+}
+
+.searchPart {
+    width: 40rem;
+    margin-left: 6rem;
+}
+
+.main-navbar {
+    background-color: black !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.cards {
+    display: flex;    
+    justify-content: center; 
+    flex-direction: row;   
+    margin-top: 2rem;
+    width: 100%;
+    margin-left: 0.4rem;
+   
+    
+}
+.urunKart{
+    width: 33% !important;
+    margin-bottom: 2rem;
+
+}
+
+
+
+.modal-content {
+    width: 20rem;
+    height: 20rem;    
+    margin-bottom: 2rem;
+}
+
+.copy {
+    background-color: #000000 !important;
+    color: white;
+}
+
+.kategori {
+    text-decoration: none;
+}
+
+.col_white_amrc {
+    color: #FFF;
+}
+
+footer {
+    width: 100%;
+    background-color: lightcoral !important;
+    min-height: 250px;
+    padding: 10px 0px 25px 0px;
+}
+
+.pt2 {
+    padding-top: 40px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 13px;
+    color: #CCC;
+    padding-bottom: 0px;
+    margin-bottom: 8px;
+}
+
+.mb10 {
+    padding-bottom: 15px;
+}
+
+.footer_ul_amrc {
+    margin: 0px;
+    list-style-type: none;
+    font-size: 14px;
+    padding: 0px 0px 10px 0px;
+}
+
+.footer_ul_amrc li {
+    padding: 0px 0px 5px 0px;
+}
+
+.footer_ul_amrc li a {
+    color: #CCC;
+}
+
+.footer_ul_amrc li a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.fleft {
+    float: left;
+}
+
+.padding-right {
+    padding-right: 10px;
+}
+
+.footer_ul2_amrc {
+    margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+}
+
+.footer_ul2_amrc li p {
+    display: table;
+}
+
+.footer_ul2_amrc li a:hover {
+    text-decoration: none;
+}
+
+.footer_ul2_amrc li i {
+    margin-top: 5px;
+}
+
+.bottom_border {
+    border-bottom: 1px solid #323f45;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    margin-left: 2rem;
+}
+
+.foote_bottom_ul_amrc {
+    list-style-type: none;
+    padding: 0px;
+    display: table;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+
+.foote_bottom_ul_amrc li {
+    display: inline;
+}
+
+.foote_bottom_ul_amrc li a {
+    color: white;
+    margin: 0 12px;
+}
+
+.social_footer_ul {
+    display: table;
+    margin: 15px auto 0 auto;
+    list-style-type: none;
+}
+
+.social_footer_ul li {
+    padding-left: 20px;
+    padding-top: 10px;
+    float: left;
+}
+
+.social_footer_ul li a {
+    color: #CCC;
+    border: 1px solid #CCC;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.social_footer_ul li i {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.sepet {
+    margin-right: 2rem;
+    margin-top: 0.3rem;
+    font-size: 30px;
+}
+
+.sepet:hover {
+    font-size: 35px;
+}
+
+.iletisimForm {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.formEleman {
+    width: 15rem;
+}
+
+#navbarDropdown:hover {
+    background-color: white !important;
+    border-radius: 15%;
+}
+
+
